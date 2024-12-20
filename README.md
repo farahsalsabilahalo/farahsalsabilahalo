@@ -9,18 +9,6 @@
   <p style="color: purple; font-size: 1.2em; font-family: 'Comic Sans MS', cursive, sans-serif;">a curious mind with a passion for 💻tech, 📈growth, and 🌍impactful projects.</p>
 
 
-<!-- Projects section -->
-<div align="center">
-  <h2 class="section-header">Projects</h2>
-  <ul style="list-style-type: none; padding: 0;">
-    <a href="https://github.com/Farah/project1" class="link">🚀 Project 1: Tech Blog</a> - A blog about the latest trends in technology.</li>
-      <br>
-    <a href="https://github.com/Farah/project2" class="link">📱 Project 2: Task Manager App</a> - A simple and effective task management application.</li>
-      <br>
-    <a href="https://github.com/Farah/project3" class="link">📊 Project 3: Data Analysis Dashboard</a> - An interactive dashboard for data analysis.</li>
-  </ul>
-</div>
-
 <!-- Contact section -->
 <div align="center">
   <h2 class="section-header">Get in Touch</h2>
@@ -42,4 +30,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Projects section 
+<div align="center">
+  <h2 class="section-header">Projects</h2>
+  <ul style="list-style-type: none; padding: 0;">
+    <a href="https://github.com/Farah/project1" class="link">🚀 Project 1: Tech Blog</a> - A blog about the latest trends in technology.</li>
+      <br>
+    <a href="https://github.com/Farah/project2" class="link">📱 Project 2: Task Manager App</a> - A simple and effective task management application.</li>
+      <br>
+    <a href="https://github.com/Farah/project3" class="link">📊 Project 3: Data Analysis Dashboard</a> - An interactive dashboard for data analysis.</li>
+  </ul>
+</div>
 -->
+
